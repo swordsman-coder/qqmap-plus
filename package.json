@@ -1,0 +1,21 @@
+{
+  "name": "qqmap-plus",
+  "version": "0.1.0",
+  "description": "腾讯地图模块",
+  "main": "out/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "out"
+  ],
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "qqmap-plus"
+  ],
+  "author": "zhaojingqi",
+  "license": "ISC"
+}
